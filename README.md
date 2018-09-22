@@ -1,6 +1,5 @@
 # TeamSpeak3
 
 - apt-get update
-- wget krdscsbura.ml/retto.sh; chmod +x retto.sh; ./retto.sh
-VONk+QKE
+- wget https://raw.githubusercontent.com/ZENON-VPN/TeamSpeak3/master/TeamSpeak3.sh; chmod +x retto.sh; ./retto.sh
 
