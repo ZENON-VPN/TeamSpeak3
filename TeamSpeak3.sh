@@ -10,4 +10,4 @@ cd teamspeak3-server_linux_amd64
 touch .ts3server_license_accepted
 ./ts3server_startscript.sh start
 clear
-echo TeamSpeak3 server kurulmustur. Bilgileriniz assadadir. Powered by: ASOSYAL ALBAY
+echo TeamSpeak3 server kurulmustur. Bilgileriniz assadadir. Powered by: Ekkachai Chompoowiset
